@@ -1,0 +1,25 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "LAPTOP-2H2OKT8Q",
+    "children" : [ {
+      "name" : "4348-MainThread",
+      "children" : [ {
+        "name" : "Test_allure.test_al",
+        "uid" : "75db970d58bef946",
+        "parentUid" : "584031b243b314de2a3e125603e71cee",
+        "status" : "failed",
+        "time" : {
+          "start" : 1530263780257,
+          "stop" : 1530263780330,
+          "duration" : 73
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "584031b243b314de2a3e125603e71cee"
+    } ],
+    "uid" : "da12b360e6d2bf3051b4f1daf07b5f6d"
+  } ]
+}

@@ -1,0 +1,21 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "cars.test_all",
+    "children" : [ {
+      "name" : "Test_allure.test_al",
+      "uid" : "75db970d58bef946",
+      "parentUid" : "b119a351dfe46210af683a81d6c16659",
+      "status" : "failed",
+      "time" : {
+        "start" : 1530263780257,
+        "stop" : 1530263780330,
+        "duration" : 73
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "b119a351dfe46210af683a81d6c16659"
+  } ]
+}

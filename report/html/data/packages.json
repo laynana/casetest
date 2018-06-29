@@ -1,0 +1,21 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "cars.test_all",
+    "children" : [ {
+      "name" : "Test_allure.test_al",
+      "uid" : "75db970d58bef946",
+      "parentUid" : "37d67f2600ab27b188ee650fafce9c55",
+      "status" : "failed",
+      "time" : {
+        "start" : 1530263780257,
+        "stop" : 1530263780330,
+        "duration" : 73
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "cars.test_all"
+  } ]
+}

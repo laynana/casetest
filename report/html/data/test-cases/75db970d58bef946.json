@@ -1,0 +1,66 @@
+{
+  "uid" : "75db970d58bef946",
+  "name" : "Test_allure.test_al",
+  "fullName" : "cars.test_all.Test_allure.test_al",
+  "historyId" : "266361b10dfc4511ef5e64785fbd1a43",
+  "time" : {
+    "start" : 1530263780257,
+    "stop" : 1530263780330,
+    "duration" : 73
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "AssertionError: assert 0",
+  "statusTrace" : "self = <cars.test_all.Test_allure object at 0x000001EFD86C4A58>\n\n    def test_al(self):\n>       assert 0\nE       assert 0\n\ncars\\test_all.py:8: AssertionError",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-2H2OKT8Q"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "4348-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "cars.test_all"
+  }, {
+    "name" : "testClass",
+    "value" : "cars.test_all"
+  }, {
+    "name" : "testMethod",
+    "value" : "Test_allure.test_al"
+  }, {
+    "name" : "package",
+    "value" : "cars.test_all"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "75db970d58bef946.json",
+  "parameterValues" : [ ]
+}
